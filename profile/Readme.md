@@ -7,7 +7,7 @@
 
 <br />
 
-## 프로젝트 개발 기간 
+## 📅 프로젝트 개발 기간
 > 2025.04.14 ~ 2025.06.30
 
 <br />
@@ -15,6 +15,12 @@
 
 
 ## 🔍 프로젝트 소개
+> 여행을 계획하는 것이 어려운 사람들을 위해, 누군가와 함께 여행을 계획하고 싶은 사람들을 위해,
+> 
+> 여행 계획 추천부터 실시간 공유까지
+
+<br />
+
 ![1페이지](https://github.com/user-attachments/assets/69ae6879-ed7a-4ed9-8a97-6b885afba9e5)
 ![2페이지](https://github.com/user-attachments/assets/47b94d15-f84b-4a2b-9e22-f54b5d1d2308)
 ![3페이지](https://github.com/user-attachments/assets/21fc98b3-994b-43a1-93dc-0903339ceae1)
@@ -38,7 +44,7 @@
 ## 👥 Developers
 <div align="center">
 
-| Frontend/Backend | Backend |
+| FE/BE | BE |
 | :-----: | :-----: |
 |  <img style="width: 150px;" src="https://github.com/jjjuni.png" />  | <img style="width: 150px;" src="https://github.com/wjdgh123.png" /> |
 |[이준희](https://github.com/jjjuni)|[김정호](https://github.com/wjdgh123)|
